@@ -1,3 +1,7 @@
+## lesson task. 
+
+This is a lesson task to learn the basics of coding. Archivate januar 2025. 
+
 # JavaScript 1 - Module 1
 
 ## Lesson Task 2 Questions
