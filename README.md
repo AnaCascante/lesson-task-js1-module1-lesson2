@@ -1,4 +1,4 @@
-## lesson task. 
+# Lesson task
 
 This is a lesson task to learn the basics of coding. Archivate januar 2025. 
 
